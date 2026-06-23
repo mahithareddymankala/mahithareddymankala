@@ -27,10 +27,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahithareddymankala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api?username=mahithareddymankala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-## 💻 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahithareddymankala&theme=tokyonight&hide_border=false&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahithareddymankala&theme=tokyonight&hide_border=false&layout=compact)
